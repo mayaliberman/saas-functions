@@ -1,0 +1,19 @@
+header {
+  background-color: #3acec2;
+}
+header h1 {
+  color: #ce3a46;
+}
+header p {
+  color: #1b6d67;
+}
+.main-nav a {
+  color: #1b6d67;
+}
+.btn {
+  color: #3acec2;
+  background-color: #ce3a46;
+}
+.btn:hover {
+  background-color: #d8636c;
+}

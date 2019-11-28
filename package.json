@@ -1,0 +1,23 @@
+{
+  "name": "color-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayaliberman/saas-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayaliberman/saas-functions/issues"
+  },
+  "homepage": "https://github.com/mayaliberman/saas-functions#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
